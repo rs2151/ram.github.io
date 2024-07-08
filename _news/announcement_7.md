@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Ongoing my Cloud Computing and Devops Course at [Intellipaat Collaboration with IBM and Microsofte](https://intellipaat.com/).
+Ongoing my Cloud Computing and Devops Course at [Intellipaat Collaboration with IBM and Microsoft](https://intellipaat.com/).
