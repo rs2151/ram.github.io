@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://github.com/rs2151/ram.github.io/sitemap.xml
+Sitemap: https://rs2151.github.io//sitemap.xml
