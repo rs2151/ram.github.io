@@ -9,6 +9,18 @@ related_posts: false
 Ego4D- An Achievement to Celebrate! 
 
 ---
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 Egocentric 4D Perception(Ego4D) is a Facebook Artificial Intelligence(AI) Research project dedicated to creating a dataset of egocentric or first-person videos. The purpose is to understand how people interact in society and use objects with the intention of application in AI. It is the largest dataset in the world that captures daily-life activities around the globe from a first person’s point of view. Facebook AI collaborated with 13 universities around the world that collected over 3600 hours of unscripted, in the wild videos from 9 countries using a variety of head-mounted cameras.
 
 International Institute of Information Technology Hyderabad (IIITH) is the sole university in India that partakes in the Ego4D project. The team from IIITH is from the Center of Visual Information Technology(CVIT), led by Professor C.V. Jawahar, Raghava Modhugu(student), Siddhant Bansal(student), Ram Sharma(Technical Support), Aradhana Vinod(Project Coordinator), and Varun Bhargavan(Network Engineer). From the 13 universities participating, IIITH has contributed the highest number of hours to Ego4D. To capture videos, 14 go-pro cameras were used by 138 people in different states of India such as Telangana, Uttar Pradesh, Kerala, West Bengal, and Gujarat. The videos consist of daily life scenarios like cooking, cleaning, traveling, shopping, and much more. In order to protect the privacy of the participants, de-identification of faces, credit cards, and other identifiers were done and consent forms were signed by the people, where relevant. “Since our participation began in March 2020, a great deal of effort was taken by the team to collect videos especially due to covid-19 restrictions.”, says Aradhana Vinod.
@@ -17,23 +29,21 @@ Professor Jawahar, the Principal Investigator(PI), guided the team to aim to con
 
 A Tea Party, with around 60 attendees, was held at IIITH on Thursday, April 14 at 3:00 p.m. to celebrate the accomplishment of providing 1000 hours of videos to Ego4D. The event began with a slide show presentation of IIITH’s participation in the Ego4D project. Subsequently, Professor Jawahar spoke a few words appreciating the team for their remarkable work. Thereafter, Professor P.J. Narayanan, Director of IIITH, felicitated Ram Sharma for the exemplary effort of contributing the largest data collection, followed by awarding him a certificate of appreciation. All the team members and guests were left content as the event concluded on a positive note with a customary cutting of a specially designed ‘Ego4D cake’. Professor Jawahar stated, “The dedication, commitment, and hard work of each team member have made this an achievement to celebrate!”
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
-#### Hipster list
+#### The videos were collected in 5 different states in India, geographically well apar.
 
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>Telangana</li>
+    <li>Andra Pradesh</li>
+    <li>Kerala</li>
+    <li>Kolkata</li>
+    <li>Uttar Pradesh</li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+We cover 36 different scenarios, such as making bricks using hands, knitting, making egg cartons, and hairstyling. The age of subjects ranged from 18-84 years with 10 distinct professional backgrounds (teachers, students, farmers, blacksmiths, homemakers, etc.). Out of all the subjects, 4 were males, and 44 were females. We use GoPro Hero 6 and GoPro Hero 7 for recording the videos to the participants in different parts of the country. Videos were shared back either in external hard disks or over the cloud storage. Each video was manually inspected for any sensitive content before sharing.
 
 ---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+> Primary contributors: Raghava Modhugu - data collection pipeline, design of the setup and workflow. Siddhant Bansal - IRB application, consent forms and de-identification. C.V. Jawahar - lead contributor for data collection. We also acknowledge the contributions of Aradhana Vinod (coordination and communication), Ram Sharma (local data management and verification), and Varun Bhargavan (systemsand resources).
+> — Ram Sharma
 
