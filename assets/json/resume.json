@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "General Information": {
     "name": "Ram Sharma",
     "label": "",
     "image": "",
@@ -22,15 +22,33 @@
       }
     ]
   },
-  "work": [
+  "Experience": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "IHub-Data Foundation",
+      "position": "Web Developer and DevOps Administrator",
+      "url": "https://ihub-data.iiit.ac.in/",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "Maintaining and Developing the so many website, Data Collection and Data management and verification using Python, Shell Script",
+      "highlights": ["Developed amd maintained scripts for automated deployment using Ansible.", "Work closely with programmers and Senior Web developer to meet project requirements, goals, and desired functionality"]
+    },
+     {
+      "name": "Center For Visual Information Technology",
+      "position": "Front-End Developer",
+      "url": "http://cvit.iiit.ac.in/",
+      "startDate": "2018",
+      "endDate": "2022",
+      "summary": "Maintaining and Developing the so many website, Data Collection and Data management and verification using Python, Shell Script",
+      "highlights": ["Developed dynamic and interactive website that ensured high traffic, page views, and user experience.", "Created and assisted with the design, development, and support of new and existing secure websites and web applications."]
+    },
+     {
+      "name": "Applied Research Lab",
+      "position": "Front-End Developer Intern",
+      "url": "http://cvit.iiit.ac.in/",
+      "startDate": "2017",
+      "endDate": "2018",
+      "summary": "Developing a Static Webpages",
+      "highlights": ["Developed websites from front to back-end using PHP, JavaScript, CSS and HTML."]
     }
   ],
   "volunteer": [
