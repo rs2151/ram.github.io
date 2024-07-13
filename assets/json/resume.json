@@ -1,11 +1,12 @@
 {
   "basics": {
     "name": "Ram Sharma",
+    "label": "",
     "image": "",
     "email": "ramsharma2151@gmail.com",
     "phone": "(+91) 9502221654 ",
     "url": "https://rs2151.github.io/",
-    "summary": "-",
+    "summary": "",
     "location": {
       "address": "Ring Basthi, Jagathgiri Gutta",
       "postalCode": "500037",
@@ -13,6 +14,14 @@
       "countryCode": "IN",
       "region": "India"
     },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
