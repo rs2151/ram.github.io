@@ -1,27 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ram Sharma",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ramsharma2151@gmail.com",
+    "phone": "(+91) 9502221654 ",
+    "url": "https://rs2151.github.io/",
+    "summary": "-",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Ring Basthi, Jagathgiri Gutta",
+      "postalCode": "500037",
+      "city": "Hyderabad",
+      "countryCode": "IN",
+      "region": "India"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
